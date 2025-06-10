@@ -418,7 +418,7 @@ export default function HomePage() {
                 <p className="text-sm text-gray-600 dark:text-gray-300 flex items-center space-x-2">
                   <span>Interactive STEM Learning Platform</span>
                   <Badge variant="secondary" className="text-xs">
-                    v2.0
+                    v1.0
                   </Badge>
                 </p>
               </div>
