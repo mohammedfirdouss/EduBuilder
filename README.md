@@ -48,33 +48,6 @@ pnpm start
 
 ---
 
-## Customization
-
-### Adding New Demos
-1. Edit `public/data/demos.json`.
-2. Add a new object with fields like:
-```json
-{
-  "id": "phy-003",
-  "title": "New Demo Title",
-  "category": "Physics",
-  "gradeLevel": "JSS2",
-  "description": "Short description.",
-  "explanation": "Detailed explanation.",
-  "simulationUrl": "/sims/new-demo.html",
-  "imageUrl": "https://...",
-  "videoUrl": "https://...",
-  "questions": [ ... ]
-}
-```
-3. Save and reload the app.
-
-### Theming
-- Modify `tailwind.config.ts` and `styles/globals.css` for custom themes.
-- Use the theme toggle in the UI for light/dark mode.
-
----
-
 ## PWA & Offline Support
 - Installable on mobile/desktop (see browser install prompt)
 - Works offline via service worker (`public/sw.js`)
@@ -82,7 +55,6 @@ pnpm start
 - Manifest (`public/manifest.json`) for app metadata and icons
 
 ---
-
 ## Tech Stack
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)
@@ -91,13 +63,3 @@ pnpm start
 - [TypeScript](https://www.typescriptlang.org/)
 
 ---
-
-## Contributing
-1. Fork the repo and create your branch.
-2. Make your changes (add demos, improve UI, etc).
-3. Open a Pull Request.
-
-For demo contributions, please follow the structure in `public/data/demos.json`.
-
----
-
