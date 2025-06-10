@@ -5,11 +5,11 @@ import "./globals.css"
 import { PWAProvider } from "@/components/pwa-provider"
 import { CustomizationProvider } from "@/components/customization-provider"
 import { ThemeProvider } from "@/components/theme-provider"
-import { ConvexProvider, ConvexReactClient } from "convex/react"
+
 
 const inter = Inter({ subsets: ["latin"] })
 
-const convex = new ConvexReactClient(process.env.NEXT_PUBLIC_CONVEX_URL!)
+
 
 export const metadata: Metadata = {
   title: "EduBuilder",
@@ -30,11 +30,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           <PWAProvider>
-            <CustomizationProvider>
-              <ConvexProvider client={convex}>
-                {children}
-              </ConvexProvider>
-            </CustomizationProvider>
+          <CustomizationProvider>{children}</CustomizationProvider>
           </PWAProvider>
         </ThemeProvider>
       </body>
