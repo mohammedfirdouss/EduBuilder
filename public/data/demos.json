@@ -1,0 +1,632 @@
+[
+  {
+    "id": "phy-001",
+    "title": "Simple Pendulum Motion",
+    "category": "Physics",
+    "gradeLevel": "JSS3",
+    "description": "Explore the periodic motion of a simple pendulum and understand factors affecting its period.",
+    "explanation": "A simple pendulum consists of a mass suspended from a fixed point by a string or rod. When displaced from its equilibrium position, it oscillates back and forth under the influence of gravity. The period of oscillation depends primarily on the length of the pendulum and the acceleration due to gravity, while being largely independent of the mass and small amplitude of oscillation.",
+    "simulationUrl": "/sims/pendulum.html",
+    "imageUrl": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/yVkdfJ9PkRQ",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What primarily affects the period of a simple pendulum?",
+        "options": ["Mass of the bob", "Amplitude of swing", "Length of the string", "Color of the bob"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q2",
+        "text": "What type of motion does a pendulum exhibit?",
+        "options": ["Linear motion", "Circular motion", "Periodic motion", "Random motion"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "text": "How would doubling the length affect the period?",
+        "options": ["Double it", "Halve it", "Increase by √2", "No change"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "chem-001",
+    "title": "Acid-Base Indicators",
+    "category": "Chemistry",
+    "gradeLevel": "SSS1",
+    "description": "Learn how different indicators change color in acidic and basic solutions.",
+    "explanation": "Acid-base indicators are substances that change color depending on the pH of the solution they are in. Common indicators like litmus paper, phenolphthalein, and methyl orange have specific pH ranges where they change color. This property makes them useful for determining whether a solution is acidic, neutral, or basic.",
+    "simulationUrl": "/sims/indicators.html",
+    "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/X1pWKK2zGHQ",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What color does litmus paper turn in an acidic solution?",
+        "options": ["Blue", "Red", "Green", "Yellow"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "What is the pH range for neutral solutions?",
+        "options": ["0-6", "7", "8-14", "1-13"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "text": "Which indicator is colorless in acidic solutions?",
+        "options": ["Litmus", "Methyl orange", "Phenolphthalein", "Universal indicator"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "bio-001",
+    "title": "Plant Cell Structure",
+    "category": "Biology",
+    "gradeLevel": "JSS2",
+    "description": "Explore the different parts of a plant cell and their functions.",
+    "explanation": "Plant cells are eukaryotic cells that contain several specialized organelles. Key structures include the cell wall (provides support), chloroplasts (for photosynthesis), vacuole (storage and support), nucleus (control center), and cell membrane (controls entry and exit of substances). Each organelle has specific functions that help the plant survive and grow.",
+    "simulationUrl": "/sims/plant-cell.html",
+    "imageUrl": "https://images.unsplash.com/photo-1530587191325-3db32d826c18?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/Hmwvj9X4GNY",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Which organelle is responsible for photosynthesis?",
+        "options": ["Nucleus", "Chloroplast", "Vacuole", "Mitochondria"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "What provides structural support to plant cells?",
+        "options": ["Cell membrane", "Cytoplasm", "Cell wall", "Nucleus"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "text": "Which structure controls what enters and leaves the cell?",
+        "options": ["Cell wall", "Cell membrane", "Vacuole", "Chloroplast"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "math-001",
+    "title": "Quadratic Functions",
+    "category": "Mathematics",
+    "gradeLevel": "SSS2",
+    "description": "Understand the properties and graphs of quadratic functions.",
+    "explanation": "A quadratic function is a polynomial function of degree 2, typically written as f(x) = ax² + bx + c where a ≠ 0. The graph of a quadratic function is a parabola that opens upward if a > 0 or downward if a < 0. Key features include the vertex (maximum or minimum point), axis of symmetry, and x-intercepts (roots).",
+    "simulationUrl": "/sims/quadratic.html",
+    "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/g7oBR7W8Ej4",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is the general form of a quadratic function?",
+        "options": ["ax + b", "ax² + bx + c", "ax³ + bx² + cx + d", "a/x + b"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "What shape is the graph of a quadratic function?",
+        "options": ["Line", "Circle", "Parabola", "Hyperbola"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "text": "If a > 0 in f(x) = ax² + bx + c, the parabola opens:",
+        "options": ["Upward", "Downward", "Left", "Right"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "phy-002",
+    "title": "Electric Circuits",
+    "category": "Physics",
+    "gradeLevel": "SSS2",
+    "description": "Learn about series and parallel circuits and how current flows.",
+    "explanation": "Electric circuits provide a path for electric current to flow. In series circuits, components are connected end-to-end, so current flows through each component in sequence. In parallel circuits, components are connected across common points, providing multiple paths for current. Understanding these configurations is crucial for analyzing circuit behavior and calculating voltage, current, and resistance.",
+    "simulationUrl": "/sims/circuits.html",
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/mc979OhitAg",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "In a series circuit, what happens to current through each component?",
+        "options": ["It varies", "It's the same", "It increases", "It decreases"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "What happens to total resistance in a parallel circuit?",
+        "options": ["Increases", "Stays same", "Decreases", "Becomes zero"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "text": "Which circuit type provides multiple paths for current?",
+        "options": ["Series", "Parallel", "Both", "Neither"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "chem-002",
+    "title": "Chemical Bonding",
+    "category": "Chemistry",
+    "gradeLevel": "SSS1",
+    "description": "Understand ionic and covalent bonds between atoms.",
+    "explanation": "Chemical bonding occurs when atoms combine to form compounds. Ionic bonds form when electrons are transferred from metal atoms to non-metal atoms, creating charged ions that attract each other. Covalent bonds form when atoms share electrons. The type of bond depends on the electronegativity difference between the atoms involved.",
+    "simulationUrl": "/sims/bonding.html",
+    "imageUrl": "https://images.unsplash.com/photo-1587613865763-01a198d31463?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/QqjcCvzW-kg",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What type of bond forms between a metal and non-metal?",
+        "options": ["Covalent", "Ionic", "Metallic", "Hydrogen"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "In covalent bonding, atoms:",
+        "options": ["Transfer electrons", "Share electrons", "Lose electrons", "Gain protons"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "text": "Which compound likely has ionic bonding?",
+        "options": ["H₂O", "CO₂", "NaCl", "CH₄"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "bio-002",
+    "title": "Photosynthesis Process",
+    "category": "Biology",
+    "gradeLevel": "JSS3",
+    "description": "Learn how plants make food using sunlight, water, and carbon dioxide.",
+    "explanation": "Photosynthesis is the process by which green plants make their own food using sunlight, carbon dioxide from air, and water from soil. This process occurs mainly in the leaves, specifically in chloroplasts containing chlorophyll. The overall equation is: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂. Oxygen is released as a byproduct.",
+    "simulationUrl": "/sims/photosynthesis.html",
+    "imageUrl": "https://images.unsplash.com/photo-1551836022-c9c095890070?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/P2qQWDrWl2k",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What are the main raw materials for photosynthesis?",
+        "options": ["Oxygen and glucose", "Water and oxygen", "Carbon dioxide and water", "Glucose and water"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q2",
+        "text": "Where does photosynthesis mainly occur in plants?",
+        "options": ["Roots", "Stem", "Leaves", "Flowers"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "text": "What gas is released during photosynthesis?",
+        "options": ["Carbon dioxide", "Nitrogen", "Hydrogen", "Oxygen"],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "math-002",
+    "title": "Trigonometric Ratios",
+    "category": "Mathematics",
+    "gradeLevel": "SSS1",
+    "description": "Explore sine, cosine, and tangent ratios in right triangles.",
+    "explanation": "Trigonometric ratios relate the angles of a right triangle to the lengths of its sides. The three basic ratios are: sine (opposite/hypotenuse), cosine (adjacent/hypotenuse), and tangent (opposite/adjacent). These ratios are fundamental for solving problems involving right triangles and have applications in navigation, engineering, and physics.",
+    "simulationUrl": "/sims/trigonometry.html",
+    "imageUrl": "https://images.unsplash.com/photo-1618424181497-152b05489561?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/nVMjWz9jWnM",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is the sine ratio?",
+        "options": ["Adjacent/Hypotenuse", "Opposite/Hypotenuse", "Opposite/Adjacent", "Hypotenuse/Opposite"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "In a right triangle, which side is always the longest?",
+        "options": ["Adjacent", "Opposite", "Hypotenuse", "Base"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "text": "What is tan(θ) equal to?",
+        "options": ["sin(θ)/cos(θ)", "cos(θ)/sin(θ)", "sin(θ) × cos(θ)", "1/sin(θ)"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "phy-003",
+    "title": "Wave Properties",
+    "category": "Physics",
+    "gradeLevel": "SSS1",
+    "description": "Understand amplitude, frequency, wavelength, and wave speed.",
+    "explanation": "Waves are disturbances that transfer energy without transferring matter. Key properties include amplitude (maximum displacement), frequency (number of waves per second), wavelength (distance between consecutive peaks), and wave speed (distance traveled per unit time). The relationship v = fλ connects these properties, where v is speed, f is frequency, and λ is wavelength.",
+    "simulationUrl": "/sims/waves.html",
+    "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/jJ0tzLBwWb4",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is the amplitude of a wave?",
+        "options": [
+          "Distance between peaks",
+          "Maximum displacement",
+          "Number of waves per second",
+          "Speed of the wave"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "What is the relationship between wave speed, frequency, and wavelength?",
+        "options": ["v = f + λ", "v = f - λ", "v = f × λ", "v = f / λ"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "text": "What is frequency measured in?",
+        "options": ["Meters", "Seconds", "Hertz", "Joules"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "chem-003",
+    "title": "States of Matter",
+    "category": "Chemistry",
+    "gradeLevel": "JSS1",
+    "description": "Learn about solid, liquid, and gas states and their properties.",
+    "explanation": "Matter exists in three main states: solid, liquid, and gas. In solids, particles are closely packed and vibrate in fixed positions. In liquids, particles are close but can move around each other. In gases, particles are far apart and move freely. Changes between states occur when energy is added or removed, affecting the kinetic energy of particles.",
+    "simulationUrl": "/sims/states-matter.html",
+    "imageUrl": "https://images.unsplash.com/photo-1557577347-04a7e893496f?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/JQ4QC-4q3vY",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "In which state are particles most closely packed?",
+        "options": ["Gas", "Liquid", "Solid", "Plasma"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q2",
+        "text": "What happens when a liquid is heated?",
+        "options": ["It becomes solid", "It becomes gas", "Nothing changes", "It disappears"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "text": "Which state has particles that move freely?",
+        "options": ["Solid", "Liquid", "Gas", "All states"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "bio-003",
+    "title": "Human Digestive System",
+    "category": "Biology",
+    "gradeLevel": "JSS2",
+    "description": "Explore how food is broken down and absorbed in the human body.",
+    "explanation": "The digestive system breaks down food into nutrients that can be absorbed by the body. The process begins in the mouth with mechanical and chemical digestion, continues in the stomach with acid digestion, and completes in the small intestine where most absorption occurs. The liver, pancreas, and gallbladder assist with enzyme production and bile secretion.",
+    "simulationUrl": "/sims/digestion.html",
+    "imageUrl": "https://images.unsplash.com/photo-1588421357567-bb1064997fa1?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/whAmkSpLI7I",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Where does digestion begin?",
+        "options": ["Stomach", "Small intestine", "Mouth", "Large intestine"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q2",
+        "text": "What is the main function of the small intestine?",
+        "options": ["Store food", "Absorb nutrients", "Produce acid", "Remove waste"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "text": "Which organ produces bile?",
+        "options": ["Pancreas", "Stomach", "Liver", "Kidney"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "math-003",
+    "title": "Linear Equations",
+    "category": "Mathematics",
+    "gradeLevel": "JSS3",
+    "description": "Solve linear equations and understand their graphical representation.",
+    "explanation": "Linear equations are algebraic equations where the highest power of the variable is 1. They can be written in the form ax + b = 0 or y = mx + c. The graph of a linear equation is always a straight line. The slope (m) determines the steepness, and the y-intercept (c) is where the line crosses the y-axis.",
+    "simulationUrl": "/sims/linear-equations.html",
+    "imageUrl": "https://images.unsplash.com/photo-1587271631991-9c864c449929?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/EqolS24jVqI",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is the highest power of the variable in a linear equation?",
+        "options": ["0", "1", "2", "3"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "What shape is the graph of a linear equation?",
+        "options": ["Curve", "Circle", "Straight line", "Parabola"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "text": "In y = mx + c, what does 'c' represent?",
+        "options": ["Slope", "x-intercept", "y-intercept", "Variable"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "phy-004",
+    "title": "Forces and Motion",
+    "category": "Physics",
+    "gradeLevel": "JSS3",
+    "description": "Understand Newton's laws of motion and how forces affect objects.",
+    "explanation": "Forces cause changes in motion. Newton's First Law states that objects at rest stay at rest and objects in motion stay in motion unless acted upon by a force. The Second Law relates force, mass, and acceleration (F = ma). The Third Law states that for every action, there is an equal and opposite reaction.",
+    "simulationUrl": "/sims/forces-motion.html",
+    "imageUrl": "https://images.unsplash.com/photo-1554262565-9b49630ef96a?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/EU6t9wlNlDQ",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is Newton's First Law also called?",
+        "options": ["Law of acceleration", "Law of inertia", "Law of action-reaction", "Law of gravity"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "What is the formula for Newton's Second Law?",
+        "options": ["F = ma", "F = mv", "F = m/a", "F = a/m"],
+        "correctAnswer": 0
+      },
+      {
+        "id": "q3",
+        "text": "According to Newton's Third Law, forces always occur in:",
+        "options": ["Singles", "Pairs", "Triplets", "Groups of four"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "chem-004",
+    "title": "Periodic Table Trends",
+    "category": "Chemistry",
+    "gradeLevel": "SSS2",
+    "description": "Explore patterns in atomic size, ionization energy, and electronegativity.",
+    "explanation": "The periodic table shows predictable trends in atomic properties. Atomic radius decreases across a period and increases down a group. Ionization energy increases across a period and decreases down a group. Electronegativity follows a similar pattern to ionization energy. These trends help predict chemical behavior and bonding patterns.",
+    "simulationUrl": "/sims/periodic-trends.html",
+    "imageUrl": "https://images.unsplash.com/photo-1614033374244-415038695949?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/yADcv9AVwVQ",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "How does atomic radius change across a period?",
+        "options": ["Increases", "Decreases", "Stays same", "Varies randomly"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "What is ionization energy?",
+        "options": [
+          "Energy to add electron",
+          "Energy to remove electron",
+          "Energy to form bond",
+          "Energy to break bond"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "text": "Which element has the highest electronegativity?",
+        "options": ["Hydrogen", "Oxygen", "Fluorine", "Chlorine"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "bio-004",
+    "title": "Genetics and Heredity",
+    "category": "Biology",
+    "gradeLevel": "SSS1",
+    "description": "Learn how traits are passed from parents to offspring.",
+    "explanation": "Genetics is the study of heredity - how traits are passed from parents to offspring through genes. Genes are segments of DNA that code for specific traits. Each parent contributes one allele for each gene. Dominant alleles mask recessive alleles. Mendel's laws describe patterns of inheritance, including segregation and independent assortment.",
+    "simulationUrl": "/sims/genetics.html",
+    "imageUrl": "https://images.unsplash.com/photo-1557517844-9405501019f1?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/LKlO64kAJR4",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What are genes made of?",
+        "options": ["Protein", "RNA", "DNA", "Lipids"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q2",
+        "text": "What is a dominant allele?",
+        "options": ["Always present", "Masks recessive", "Codes for proteins", "Located on chromosome"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "text": "Who is known as the father of genetics?",
+        "options": ["Darwin", "Watson", "Mendel", "Crick"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "math-004",
+    "title": "Statistics and Probability",
+    "category": "Mathematics",
+    "gradeLevel": "SSS2",
+    "description": "Understand data analysis, measures of central tendency, and probability.",
+    "explanation": "Statistics involves collecting, organizing, and analyzing data. Measures of central tendency include mean (average), median (middle value), and mode (most frequent value). Probability measures the likelihood of events occurring, expressed as a fraction, decimal, or percentage between 0 and 1.",
+    "simulationUrl": "/sims/statistics.html",
+    "imageUrl": "https://images.unsplash.com/photo-1563245377-b5a7c1534953?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/szzi4mKqy4s",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is the mean of the data set: 2, 4, 6, 8?",
+        "options": ["4", "5", "6", "8"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "What is the probability of getting heads when flipping a fair coin?",
+        "options": ["0", "0.25", "0.5", "1"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "text": "Which measure is most affected by extreme values?",
+        "options": ["Mean", "Median", "Mode", "Range"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "phy-005",
+    "title": "Energy and Work",
+    "category": "Physics",
+    "gradeLevel": "SSS1",
+    "description": "Explore different forms of energy and the work-energy theorem.",
+    "explanation": "Energy is the ability to do work. It exists in various forms: kinetic (motion), potential (position), thermal (heat), chemical, and electrical. The work-energy theorem states that work done on an object equals its change in kinetic energy. Energy can be converted from one form to another but cannot be created or destroyed (conservation of energy).",
+    "simulationUrl": "/sims/energy-work.html",
+    "imageUrl": "https://images.unsplash.com/photo-1589652717521-6419470949e1?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/BS_799GhsaI",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is kinetic energy?",
+        "options": ["Energy of position", "Energy of motion", "Energy of heat", "Energy of light"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "What does the law of conservation of energy state?",
+        "options": ["Energy increases", "Energy decreases", "Energy is constant", "Energy changes form"],
+        "correctAnswer": 3
+      },
+      {
+        "id": "q3",
+        "text": "What is the formula for kinetic energy?",
+        "options": ["KE = mgh", "KE = ½mv²", "KE = Fd", "KE = Pt"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "chem-005",
+    "title": "Chemical Reactions",
+    "category": "Chemistry",
+    "gradeLevel": "JSS3",
+    "description": "Learn about different types of chemical reactions and how to balance equations.",
+    "explanation": "Chemical reactions involve the breaking and forming of chemical bonds, resulting in new substances. Types include synthesis (combination), decomposition, single replacement, and double replacement reactions. Chemical equations must be balanced to follow the law of conservation of mass - atoms are neither created nor destroyed in reactions.",
+    "simulationUrl": "/sims/chemical-reactions.html",
+    "imageUrl": "https://images.unsplash.com/photo-1555863252-904665191423?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/W4hJtykE-Cc",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What type of reaction is A + B → AB?",
+        "options": ["Decomposition", "Synthesis", "Single replacement", "Double replacement"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "Why must chemical equations be balanced?",
+        "options": ["To look neat", "Conservation of mass", "To save time", "Chemical law"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "text": "What indicates a chemical reaction has occurred?",
+        "options": ["Color change", "Gas production", "Temperature change", "All of the above"],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "bio-005",
+    "title": "Ecosystem and Food Chains",
+    "category": "Biology",
+    "gradeLevel": "JSS1",
+    "description": "Understand how energy flows through ecosystems via food chains and webs.",
+    "explanation": "An ecosystem includes all living organisms and their physical environment in a specific area. Energy flows through ecosystems in food chains, starting with producers (plants) that make their own food, followed by primary consumers (herbivores), secondary consumers (carnivores), and decomposers that break down dead material. Food webs show interconnected food chains.",
+    "simulationUrl": "/sims/ecosystem.html",
+    "imageUrl": "https://images.unsplash.com/photo-1542601906990-b4d3fbfa94a4?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/v6mvmRYsWac",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What are producers in a food chain?",
+        "options": ["Animals that hunt", "Plants that make food", "Animals that eat plants", "Bacteria that decompose"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "What do primary consumers eat?",
+        "options": ["Other animals", "Plants", "Dead material", "Everything"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "text": "What is the role of decomposers?",
+        "options": ["Hunt prey", "Make food", "Break down dead material", "Eat plants"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "math-005",
+    "title": "Geometry: Angles and Triangles",
+    "category": "Mathematics",
+    "gradeLevel": "JSS2",
+    "description": "Explore properties of angles, triangles, and geometric relationships.",
+    "explanation": "Geometry deals with shapes, sizes, and properties of figures. Angles are measured in degrees, with types including acute (< 90°), right (90°), obtuse (> 90°), and straight (180°). Triangles are classified by sides (equilateral, isosceles, scalene) and angles (acute, right, obtuse). The sum of angles in any triangle is always 180°.",
+    "simulationUrl": "/sims/geometry.html",
+    "imageUrl": "https://images.unsplash.com/photo-1560518883-0adea26c69d8?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/To9ihR-utzo",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is the sum of angles in a triangle?",
+        "options": ["90°", "180°", "270°", "360°"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "text": "What type of angle is exactly 90°?",
+        "options": ["Acute", "Right", "Obtuse", "Straight"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "text": "What is an equilateral triangle?",
+        "options": ["All sides equal", "Two sides equal", "No sides equal", "All angles equal"],
+        "correctAnswer": 0
+      }
+    ]
+  }
+]

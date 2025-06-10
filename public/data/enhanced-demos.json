@@ -1,0 +1,350 @@
+[
+  {
+    "id": "phy-006",
+    "title": "Electromagnetic Induction",
+    "category": "Physics",
+    "gradeLevel": "SSS3",
+    "description": "Discover how changing magnetic fields generate electric currents through Faraday's law.",
+    "explanation": "Electromagnetic induction is the process by which a changing magnetic field generates an electric current in a conductor. This fundamental principle, discovered by Michael Faraday, forms the basis of generators, transformers, and many modern electrical devices. The induced EMF is proportional to the rate of change of magnetic flux.",
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/kS25vitrZ6g",
+    "simulationUrl": "/sims/electromagnetic-induction.html",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is Faraday's law of electromagnetic induction?",
+        "options": [
+          "EMF is proportional to magnetic field strength",
+          "EMF is proportional to rate of change of magnetic flux",
+          "EMF is inversely proportional to resistance",
+          "EMF is constant in all conditions"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "explanation": "Faraday's law states that the induced EMF is directly proportional to the rate of change of magnetic flux through the conductor."
+      },
+      {
+        "id": "q2",
+        "text": "Which device works on the principle of electromagnetic induction?",
+        "options": ["Battery", "Capacitor", "Generator", "Resistor"],
+        "correctAnswer": 2,
+        "difficulty": "easy",
+        "explanation": "Generators convert mechanical energy to electrical energy using electromagnetic induction."
+      },
+      {
+        "id": "q3",
+        "text": "What happens when a conductor moves through a magnetic field?",
+        "options": ["Nothing occurs", "The conductor heats up", "An EMF is induced", "The magnetic field disappears"],
+        "correctAnswer": 2,
+        "difficulty": "medium",
+        "explanation": "When a conductor moves through a magnetic field, the changing magnetic flux induces an EMF according to Faraday's law."
+      },
+      {
+        "id": "q4",
+        "text": "Lenz's law states that induced current flows in a direction to:",
+        "options": [
+          "Enhance the change causing it",
+          "Oppose the change causing it",
+          "Remain constant",
+          "Create maximum power"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "hard",
+        "explanation": "Lenz's law is a consequence of energy conservation - induced currents oppose the change that created them."
+      },
+      {
+        "id": "q5",
+        "text": "The unit of magnetic flux is:",
+        "options": ["Tesla", "Weber", "Henry", "Ampere"],
+        "correctAnswer": 1,
+        "difficulty": "easy",
+        "explanation": "Magnetic flux is measured in Webers (Wb), named after Wilhelm Weber."
+      }
+    ]
+  },
+  {
+    "id": "chem-006",
+    "title": "Organic Chemistry: Hydrocarbons",
+    "category": "Chemistry",
+    "gradeLevel": "SSS2",
+    "description": "Explore the structure and properties of alkanes, alkenes, and alkynes.",
+    "explanation": "Hydrocarbons are organic compounds composed entirely of hydrogen and carbon atoms. They are classified into three main groups: alkanes (single bonds), alkenes (double bonds), and alkynes (triple bonds). These compounds form the basis of petroleum products and many industrial chemicals.",
+    "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/Rd4a1X3B61w",
+    "simulationUrl": "/sims/hydrocarbons.html",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is the general formula for alkanes?",
+        "options": ["CnH2n", "CnH2n+2", "CnH2n-2", "CnHn"],
+        "correctAnswer": 1,
+        "difficulty": "easy",
+        "explanation": "Alkanes have the general formula CnH2n+2 because they contain only single bonds."
+      },
+      {
+        "id": "q2",
+        "text": "Which hydrocarbon contains a triple bond?",
+        "options": ["Alkane", "Alkene", "Alkyne", "Aromatic"],
+        "correctAnswer": 2,
+        "difficulty": "easy",
+        "explanation": "Alkynes are characterized by the presence of at least one carbon-carbon triple bond."
+      },
+      {
+        "id": "q3",
+        "text": "What type of reaction do alkenes typically undergo?",
+        "options": ["Substitution", "Addition", "Elimination", "Rearrangement"],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "explanation": "Alkenes commonly undergo addition reactions due to their double bond which can be broken to add new atoms."
+      },
+      {
+        "id": "q4",
+        "text": "Which is the simplest alkyne?",
+        "options": ["Methane", "Ethene", "Ethyne", "Propane"],
+        "correctAnswer": 2,
+        "difficulty": "medium",
+        "explanation": "Ethyne (acetylene) is the simplest alkyne with the formula C2H2."
+      },
+      {
+        "id": "q5",
+        "text": "What is the main source of hydrocarbons?",
+        "options": ["Coal", "Petroleum", "Natural gas", "All of the above"],
+        "correctAnswer": 3,
+        "difficulty": "easy",
+        "explanation": "Hydrocarbons are found in petroleum, natural gas, and coal - all fossil fuel sources."
+      }
+    ]
+  },
+  {
+    "id": "bio-006",
+    "title": "DNA Structure and Replication",
+    "category": "Biology",
+    "gradeLevel": "SSS2",
+    "description": "Understand the double helix structure of DNA and how it replicates.",
+    "explanation": "DNA (Deoxyribonucleic acid) is the hereditary material in most organisms. It has a double helix structure with two complementary strands held together by hydrogen bonds between base pairs (A-T and G-C). DNA replication is semiconservative, meaning each new molecule contains one original and one new strand.",
+    "imageUrl": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/TNKWgcFPHqw",
+    "simulationUrl": "/sims/dna-replication.html",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What are the four bases in DNA?",
+        "options": ["A, T, G, C", "A, U, G, C", "A, T, G, U", "T, U, G, C"],
+        "correctAnswer": 0,
+        "difficulty": "easy",
+        "explanation": "DNA contains Adenine (A), Thymine (T), Guanine (G), and Cytosine (C)."
+      },
+      {
+        "id": "q2",
+        "text": "Which bases pair together in DNA?",
+        "options": ["A-G, T-C", "A-T, G-C", "A-C, T-G", "A-U, G-C"],
+        "correctAnswer": 1,
+        "difficulty": "easy",
+        "explanation": "In DNA, Adenine pairs with Thymine, and Guanine pairs with Cytosine through hydrogen bonds."
+      },
+      {
+        "id": "q3",
+        "text": "What does semiconservative replication mean?",
+        "options": [
+          "Both strands are completely new",
+          "Both strands are original",
+          "Each new DNA has one original and one new strand",
+          "Only half the DNA is replicated"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "hard",
+        "explanation": "Semiconservative means each new DNA molecule consists of one original (conserved) strand and one newly synthesized strand."
+      },
+      {
+        "id": "q4",
+        "text": "Which enzyme is primarily responsible for DNA replication?",
+        "options": ["RNA polymerase", "DNA polymerase", "Ligase", "Helicase"],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "explanation": "DNA polymerase is the main enzyme that synthesizes new DNA strands during replication."
+      },
+      {
+        "id": "q5",
+        "text": "What is the shape of DNA?",
+        "options": ["Single helix", "Double helix", "Triple helix", "Linear chain"],
+        "correctAnswer": 1,
+        "difficulty": "easy",
+        "explanation": "DNA has a double helix structure, like a twisted ladder, discovered by Watson and Crick."
+      }
+    ]
+  },
+  {
+    "id": "math-006",
+    "title": "Calculus: Derivatives",
+    "category": "Mathematics",
+    "gradeLevel": "SSS3",
+    "description": "Learn about rates of change and the fundamental concept of derivatives.",
+    "explanation": "A derivative represents the rate of change of a function at any given point. It's the slope of the tangent line to the curve at that point. Derivatives have numerous applications in physics, engineering, economics, and other fields where rates of change are important.",
+    "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/WUvTyaaNkzM",
+    "simulationUrl": "/sims/derivatives.html",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What does a derivative represent?",
+        "options": ["Area under a curve", "Rate of change", "Maximum value", "Average value"],
+        "correctAnswer": 1,
+        "difficulty": "easy",
+        "explanation": "A derivative represents the instantaneous rate of change of a function at a specific point."
+      },
+      {
+        "id": "q2",
+        "text": "What is the derivative of x²?",
+        "options": ["x", "2x", "x²", "2"],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "explanation": "Using the power rule, the derivative of x² is 2x."
+      },
+      {
+        "id": "q3",
+        "text": "What is the geometric interpretation of a derivative?",
+        "options": ["Area of a rectangle", "Length of a curve", "Slope of tangent line", "Volume of a solid"],
+        "correctAnswer": 2,
+        "difficulty": "medium",
+        "explanation": "Geometrically, a derivative represents the slope of the tangent line to the curve at a given point."
+      },
+      {
+        "id": "q4",
+        "text": "If f(x) = 3x³ + 2x + 1, what is f'(x)?",
+        "options": ["9x² + 2", "3x² + 2x", "9x² + 2x + 1", "x³ + x²"],
+        "correctAnswer": 0,
+        "difficulty": "hard",
+        "explanation": "Using the power rule: f'(x) = 3(3x²) + 2(1) + 0 = 9x² + 2."
+      },
+      {
+        "id": "q5",
+        "text": "What is the derivative of a constant?",
+        "options": ["The constant itself", "Zero", "One", "Undefined"],
+        "correctAnswer": 1,
+        "difficulty": "easy",
+        "explanation": "The derivative of any constant is zero because constants don't change."
+      }
+    ]
+  },
+  {
+    "id": "phy-007",
+    "title": "Quantum Physics Basics",
+    "category": "Physics",
+    "gradeLevel": "SSS3",
+    "description": "Introduction to quantum mechanics and wave-particle duality.",
+    "explanation": "Quantum physics describes the behavior of matter and energy at the atomic and subatomic scale. Key concepts include wave-particle duality (particles can exhibit both wave and particle properties), quantized energy levels, and the uncertainty principle. These principles revolutionized our understanding of the microscopic world.",
+    "imageUrl": "https://images.unsplash.com/photo-1635070041409-e63e783d0d1f?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/p7bzE1E5PMY",
+    "simulationUrl": "/sims/quantum-basics.html",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is wave-particle duality?",
+        "options": [
+          "Waves and particles are the same thing",
+          "Matter exhibits both wave and particle properties",
+          "Waves can become particles",
+          "Particles move in waves"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "explanation": "Wave-particle duality means that all matter and energy exhibit both wave-like and particle-like properties."
+      },
+      {
+        "id": "q2",
+        "text": "Who proposed that energy is quantized?",
+        "options": ["Einstein", "Planck", "Bohr", "Heisenberg"],
+        "correctAnswer": 1,
+        "difficulty": "easy",
+        "explanation": "Max Planck proposed that energy comes in discrete packets called quanta."
+      },
+      {
+        "id": "q3",
+        "text": "What is Planck's constant approximately?",
+        "options": ["6.63 × 10⁻³⁴ J·s", "3.00 × 10⁸ m/s", "9.81 m/s²", "1.60 × 10⁻¹⁹ C"],
+        "correctAnswer": 0,
+        "difficulty": "hard",
+        "explanation": "Planck's constant h ≈ 6.63 × 10⁻³⁴ J·s is fundamental to quantum mechanics."
+      },
+      {
+        "id": "q4",
+        "text": "What does the uncertainty principle state?",
+        "options": [
+          "Energy is uncertain",
+          "Position and momentum cannot both be precisely known",
+          "Time is relative",
+          "Mass is variable"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "hard",
+        "explanation": "Heisenberg's uncertainty principle states that position and momentum cannot both be precisely determined simultaneously."
+      },
+      {
+        "id": "q5",
+        "text": "What is a photon?",
+        "options": ["A type of atom", "A quantum of light", "A wave function", "An electron"],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "explanation": "A photon is a quantum (discrete packet) of electromagnetic energy, including light."
+      }
+    ]
+  },
+  {
+    "id": "chem-007",
+    "title": "Electrochemistry",
+    "category": "Chemistry",
+    "gradeLevel": "SSS3",
+    "description": "Study redox reactions and electrochemical cells.",
+    "explanation": "Electrochemistry deals with chemical reactions that involve the transfer of electrons. It includes the study of galvanic cells (which generate electricity from chemical reactions) and electrolytic cells (which use electricity to drive chemical reactions). These principles are fundamental to batteries, fuel cells, and electroplating.",
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=300&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/StoxIIzIBSk",
+    "simulationUrl": "/sims/electrochemistry.html",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What happens at the anode in an electrochemical cell?",
+        "options": ["Reduction", "Oxidation", "Neutralization", "Precipitation"],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "explanation": "At the anode, oxidation occurs (electrons are lost). Remember: 'An Ox' - Anode Oxidation."
+      },
+      {
+        "id": "q2",
+        "text": "What is the purpose of a salt bridge?",
+        "options": [
+          "To conduct electricity",
+          "To maintain electrical neutrality",
+          "To speed up reactions",
+          "To store energy"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "explanation": "A salt bridge maintains electrical neutrality by allowing ion flow between the two half-cells."
+      },
+      {
+        "id": "q3",
+        "text": "In a galvanic cell, electrons flow from:",
+        "options": ["Cathode to anode", "Anode to cathode", "Positive to negative", "They don't flow"],
+        "correctAnswer": 1,
+        "difficulty": "easy",
+        "explanation": "In a galvanic cell, electrons flow from the anode (negative) to the cathode (positive) through the external circuit."
+      },
+      {
+        "id": "q4",
+        "text": "What type of reaction occurs at the cathode?",
+        "options": ["Oxidation", "Reduction", "Neutralization", "Combustion"],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "explanation": "At the cathode, reduction occurs (electrons are gained). Remember: 'Red Cat' - Reduction Cathode."
+      },
+      {
+        "id": "q5",
+        "text": "Which of these is an example of electrochemical application?",
+        "options": ["Photosynthesis", "Battery", "Combustion", "Crystallization"],
+        "correctAnswer": 1,
+        "difficulty": "easy",
+        "explanation": "Batteries are a common application of electrochemistry, converting chemical energy to electrical energy."
+      }
+    ]
+  }
+]
